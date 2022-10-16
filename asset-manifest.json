@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb1a87cc.css",
-    "main.js": "/static/js/main.d1374e6a.js",
-    "static/media/8.JPG": "/static/media/8.f85075b9815fdaf7667a.JPG",
-    "static/media/5.JPG": "/static/media/5.97f905700e389ab174b1.JPG",
-    "static/media/9.JPG": "/static/media/9.116775c95bb6d5048685.JPG",
-    "static/media/2.JPG": "/static/media/2.97658f49d00a4f9db952.JPG",
-    "static/media/6.JPG": "/static/media/6.c86d726f2dac46608561.JPG",
-    "static/media/4.JPG": "/static/media/4.dd777045105866a494bc.JPG",
-    "static/media/3.JPG": "/static/media/3.b724a6f252f9ffddcfa1.JPG",
-    "static/media/1.JPG": "/static/media/1.197e561af7db93db9bb7.JPG",
-    "static/media/7.JPG": "/static/media/7.32367842b14980b256e3.JPG",
-    "static/media/logo.jpg": "/static/media/logo.736a4564a116e8b3bc8a.jpg",
-    "index.html": "/index.html",
-    "main.bb1a87cc.css.map": "/static/css/main.bb1a87cc.css.map",
-    "main.d1374e6a.js.map": "/static/js/main.d1374e6a.js.map"
+    "main.css": "/culture_stamp_design/static/css/main.bb1a87cc.css",
+    "main.js": "/culture_stamp_design/static/js/main.5b1cfdbd.js",
+    "static/media/8.JPG": "/culture_stamp_design/static/media/8.f85075b9815fdaf7667a.JPG",
+    "static/media/5.JPG": "/culture_stamp_design/static/media/5.97f905700e389ab174b1.JPG",
+    "static/media/9.JPG": "/culture_stamp_design/static/media/9.116775c95bb6d5048685.JPG",
+    "static/media/2.JPG": "/culture_stamp_design/static/media/2.97658f49d00a4f9db952.JPG",
+    "static/media/6.JPG": "/culture_stamp_design/static/media/6.c86d726f2dac46608561.JPG",
+    "static/media/4.JPG": "/culture_stamp_design/static/media/4.dd777045105866a494bc.JPG",
+    "static/media/3.JPG": "/culture_stamp_design/static/media/3.b724a6f252f9ffddcfa1.JPG",
+    "static/media/1.JPG": "/culture_stamp_design/static/media/1.197e561af7db93db9bb7.JPG",
+    "static/media/7.JPG": "/culture_stamp_design/static/media/7.32367842b14980b256e3.JPG",
+    "static/media/logo.jpg": "/culture_stamp_design/static/media/logo.736a4564a116e8b3bc8a.jpg",
+    "index.html": "/culture_stamp_design/index.html",
+    "main.bb1a87cc.css.map": "/culture_stamp_design/static/css/main.bb1a87cc.css.map",
+    "main.5b1cfdbd.js.map": "/culture_stamp_design/static/js/main.5b1cfdbd.js.map"
   },
   "entrypoints": [
     "static/css/main.bb1a87cc.css",
-    "static/js/main.d1374e6a.js"
+    "static/js/main.5b1cfdbd.js"
   ]
 }
